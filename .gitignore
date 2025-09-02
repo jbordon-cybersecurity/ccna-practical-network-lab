@@ -1,0 +1,24 @@
+# Python cache (if you later add scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
+
+# VS Code settings (optional)
+.vscode/
+
+# Packet Tracer autosave files
+*.autosave
